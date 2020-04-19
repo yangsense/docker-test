@@ -50,7 +50,7 @@
                 <version>0.4.11</version>
                 <configuration>
                     <imageName>yangsen/${project.artifactId}</imageName>
-                    <dockerDirectory>src/main/docker</dockerDirectory>
+                    <dockerDirectory>docker</dockerDirectory>
                     <resources>
                         <resource>
                             <targetPath>/</targetPath>
